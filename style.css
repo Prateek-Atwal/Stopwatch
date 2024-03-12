@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(249, 248, 251, 0.327) !important;
+    
+}
+
+.container {
+    background-color: rgb(2, 75, 246);
+    width: 50% !important;
+    margin-top: 20vh;
+    height: 50vh;
+    font-size: 10vw;
+    font-family: sans-serif;
+    box-shadow: 1px 1px 11px 8px grey;
+}
+
+.buttons {
+    font-family: 'Lato', sans-serif;
+}
+
+.buttons button {
+    box-shadow: 1px 1px 8px 4px rgb(6, 37, 236);
+}
